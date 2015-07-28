@@ -1,0 +1,60 @@
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe.config
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.pdb
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.baml
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.baml
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.g.cs
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.g.cs
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\App.g.cs
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1_MarkupCompile.cache
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.g.resources
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3_Animation.a1.Properties.Resources.resources
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csproj.GenerateResource.Cache
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.exe
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.pdb
+C:\Atelier\5B6\Aut-2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csprojResolveAssemblyReference.cache
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe.config
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.exe
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.pdb
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.pdb
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csprojResolveAssemblyReference.cache
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.baml
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.baml
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.g.cs
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.g.cs
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\App.g.cs
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1_MarkupCompile.cache
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.g.resources
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3_Animation.a1.Properties.Resources.resources
+C:\alain\Dynamique\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csproj.GenerateResource.Cache
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe.config
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.exe
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.pdb
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.pdb
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csprojResolveAssemblyReference.cache
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.baml
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.baml
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.g.cs
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.g.cs
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\App.g.cs
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1_MarkupCompile.cache
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.g.resources
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3_Animation.a1.Properties.Resources.resources
+C:\alain\atelier backup-2012\atelier\C#\5B6\transfert final été 2013\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csproj.GenerateResource.Cache
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe.config
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.exe
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.pdb
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.exe
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\bin\Debug\Moteur3-Animation.a1.pdb
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csprojResolveAssemblyReference.cache
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.baml
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.baml
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\MainWindow.g.cs
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\TableDeJeu.g.cs
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\App.g.cs
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1_MarkupCompile.cache
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.g.resources
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3_Animation.a1.Properties.Resources.resources
+C:\alain\atelier\C#\5B6\Aut2014\Labo-2013-poker\PokerTexasMoteur\Moteur3-Animation.a1\obj\Debug\Moteur3-Animation.a1.csproj.GenerateResource.Cache
